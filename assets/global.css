@@ -1,0 +1,33 @@
+.mt-10 {
+    margin-top: 10px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.mt-50 {
+    margin-top: 50px;
+}
+.npr {
+    padding-right: 0px;
+}
+.npl {
+    padding-left: 0px;
+}
+
+#comment-container {
+    max-height: 600px;
+    overflow: auto;
+}
+.reply-button {
+    font-size: 10px;
+}
+.reply-button a {
+    color: #ddd!important;
+}
+.reply-button a:hover {
+    color: #aaa!important;
+}
+.reply-to-text {
+    font-size: 12px;
+    font-style: italic;
+}
